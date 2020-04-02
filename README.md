@@ -1,5 +1,6 @@
 # Música
 
+(PARA ENTRAR EN EL MATERIAL, PULSA LA CARPETA --> View code.
 En este repositorio encontrarás 3 tipos de carpeta.
 
 
